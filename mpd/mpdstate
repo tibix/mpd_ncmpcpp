@@ -1,0 +1,99 @@
+sw_volume: 44
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 81
+time: 1.229000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/04 Sofa.m4a
+1:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/05 One Night.m4a
+2:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/06 Firefly.m4a
+3:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/07 The City (Live At Sticky Studios).m4a
+4:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/08 Firefly (Bravado Dubstep Remix).m4a
+5:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/03 Little Bird.m4a
+6:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/01 Let It Out.m4a
+7:Ed Sheeran/Singles & EPs/2010 – Loose Change (Bonus Track Version)/02 Homeless.m4a
+8:Ed Sheeran/Singles & EPs/2011 – iTunes Festival London 2011 - EP/01 The City (Live).m4a
+9:Ed Sheeran/Singles & EPs/2011 – iTunes Festival London 2011 - EP/03 The A Team (Live).m4a
+10:Ed Sheeran/Singles & EPs/2011 – iTunes Festival London 2011 - EP/05 U.N.I. (Live).m4a
+11:Ed Sheeran/Singles & EPs/2011 – iTunes Festival London 2011 - EP/02 Homeless (Live).m4a
+12:Ed Sheeran/Singles & EPs/2011 – iTunes Festival London 2011 - EP/04 Little Lady (Live).m4a
+13:Ed Sheeran/Singles & EPs/2011 – Lego House - EP/01 Lego House (Acoustic).m4a
+14:Ed Sheeran/Singles & EPs/2011 – Lego House - EP/03 Lego House (The Prototypes Remix).m4a
+15:Ed Sheeran/Singles & EPs/2011 – Lego House - EP/02 Lego House (Gosling Remix) [feat. P Money].m4a
+16:Ed Sheeran/Singles & EPs/2011 – Lego House - EP/04 Lego House (Subscape Remix).m4a
+17:Ed Sheeran/Singles & EPs/2011 – Lego House - EP/05 Grade 8 (Acoustic).m4a
+18:Ed Sheeran/Singles & EPs/2011 – Live At the Bedford/01 The A Team (Live At the Bedford).m4a
+19:Ed Sheeran/Singles & EPs/2011 – Live At the Bedford/02 Homeless (Live At the Bedford).m4a
+20:Ed Sheeran/Singles & EPs/2011 – Live At the Bedford/03 The City (Live At the Bedford).m4a
+21:Ed Sheeran/Singles & EPs/2011 – Live At the Bedford/04 Fall (Live At the Bedford).m4a
+22:Ed Sheeran/Singles & EPs/2011 – Live At the Bedford/05 Wake Me Up (Live At the Bedford).m4a
+23:Ed Sheeran/Singles & EPs/2011 – Live At the Bedford/06 You Need Me, I Don't Need You (Live At the Bedford).m4a
+24:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/01 Lately (Devlin).m4a
+25:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/02 You (+Wiley).m4a
+26:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/03 Family (+ P Money).m4a
+27:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/04 Radio (feat. JME).m4a
+28:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/05 Little Lady (+ Mikill Pane).m4a
+29:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/06 Drown Me Out (+ Ghetts).m4a
+30:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/07 Nightmares (+ Random Impulse + Sway + Wretch 32).m4a
+31:Ed Sheeran/Singles & EPs/2011 – No. 5 Collaborations Project - EP/08 Goodbye to You (+ Dot Rotten).m4a
+32:Ed Sheeran/Singles & EPs/2011 – Songs I Wrote With Amy - EP/01 Fall.m4a
+33:Ed Sheeran/Singles & EPs/2011 – Songs I Wrote With Amy - EP/02 Fire Alarms.m4a
+34:Ed Sheeran/Singles & EPs/2011 – Songs I Wrote With Amy - EP/03 Where We Land.m4a
+35:Ed Sheeran/Singles & EPs/2011 – Songs I Wrote With Amy - EP/04 Cold Coffee.m4a
+36:Ed Sheeran/Singles & EPs/2011 – Songs I Wrote With Amy - EP/05 She.m4a
+37:Ed Sheeran/Singles & EPs/2011 – The A Team - EP/01 The A Team.m4a
+38:Ed Sheeran/Singles & EPs/2011 – The A Team - EP/02 The A Team (Shy FX's Akke and Saltfish mix).m4a
+39:Ed Sheeran/Singles & EPs/2011 – The A Team - EP/03 The A Team (Koan Sound Remix).m4a
+40:Ed Sheeran/Singles & EPs/2011 – The A Team - EP/04 The A Team (True Tiger Remix).m4a
+41:Ed Sheeran/Singles & EPs/2011 – The A Team - EP/05 The A Team (Acoustic).m4a
+42:Ed Sheeran/Singles & EPs/2011 – You Need Me - EP/01 You Need Me, I Don't Need You.m4a
+43:Ed Sheeran/Singles & EPs/2011 – You Need Me - EP/02 So.m4a
+44:Ed Sheeran/Singles & EPs/2011 – You Need Me - EP/03 Be Like You.m4a
+45:Ed Sheeran/Singles & EPs/2011 – You Need Me - EP/04 The City.m4a
+46:Ed Sheeran/Singles & EPs/2011 – You Need Me - EP/05 Sunburn.m4a
+47:Ed Sheeran/Singles & EPs/2011 – You Need Me, I Don't Need You (Remixes) - EP/01 You Need Me, I Don't Need You.m4a
+48:Ed Sheeran/Singles & EPs/2011 – You Need Me, I Don't Need You (Remixes) - EP/02 You Need Me, I Don't Need You (Live Ustream Version).m4a
+49:Ed Sheeran/Singles & EPs/2011 – You Need Me, I Don't Need You (Remixes) - EP/03 You Need Me, I Don't Need You (feat. Wretch 32 & Devlin).m4a
+50:Ed Sheeran/Singles & EPs/2011 – You Need Me, I Don't Need You (Remixes) - EP/04 You Need Me, I Don't Need You (Loadstar Remix).m4a
+51:Ed Sheeran/Singles & EPs/2011 – You Need Me, I Don't Need You (Remixes) - EP/05 You Need Me, I Don't Need You (Gemini Remix).m4a
+52:Ed Sheeran/Singles & EPs/2012 – Drunk (Remixes) - EP/01 Drunk (Rudimental Remix).m4a
+53:Ed Sheeran/Singles & EPs/2012 – Drunk (Remixes) - EP/02 Drunk (Doctor P Remix).m4a
+54:Ed Sheeran/Singles & EPs/2012 – Drunk (Remixes) - EP/03 Drunk (Lazy Jay's Wasted In London Remix).m4a
+55:Ed Sheeran/Singles & EPs/2012 – Drunk (Remixes) - EP/04 Drunk (Lazy Jay's Rave-O-Lution Dub).m4a
+56:Ed Sheeran/Singles & EPs/2012 – Drunk (Remixes) - EP/05 Drunk (Jayglo Remix).m4a
+57:Ed Sheeran/Singles & EPs/2012 – Give Me Love - Single/01 Give Me Love (New Machine Remix).m4a
+58:Ed Sheeran/Singles & EPs/2012 – Give Me Love - Single/02 Give Me Love (True Tiger Remix).m4a
+59:Ed Sheeran/Singles & EPs/2012 – Give Me Love - Single/03 Give Me Love (Xilent Remix).m4a
+60:Ed Sheeran/Singles & EPs/2012 – iTunes Festival 2012 - Holiday Gift - Single/01 Drunk (Live).m4a
+61:Ed Sheeran/Singles & EPs/2012 – iTunes Festival 2012 - Holiday Gift - Single/02 Small Bump (Live).m4a
+62:Ed Sheeran/Singles & EPs/2012 – iTunes Festival 2012 - Holiday Gift - Single/03 The City (Live).m4a
+63:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/01 Drunk (Live).m4a
+64:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/02 The A Team (Live).m4a
+65:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/03 Small Bump (Live).m4a
+66:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/04 Lego House (Live).m4a
+67:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/05 Chasing Cars (Live).m4a
+68:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/06 You Need Me, I Don't Need You (Live).m4a
+69:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/07 Chasing Cars (Live).m4v
+70:Ed Sheeran/Singles & EPs/2012 – iTunes Festival London 2012 - EP/08 The A Team (Live).m4v
+71:Ed Sheeran/Singles & EPs/2012 – The Slumdon Bridge - EP/01 London Bridge.m4a
+72:Ed Sheeran/Singles & EPs/2012 – The Slumdon Bridge - EP/02 You Don't Know (for Fuck's Sake).m4a
+73:Ed Sheeran/Singles & EPs/2012 – The Slumdon Bridge - EP/03 Faces.m4a
+74:Ed Sheeran/Singles & EPs/2012 – The Slumdon Bridge - EP/04 Outro.m4a
+75:Ed Sheeran/Singles & EPs/2014 – Don't - EP/01 Don't (Rick Ross Remix).m4a
+76:Ed Sheeran/Singles & EPs/2014 – Don't - EP/02 Be My Husband (Live From Glastonbury).m4a
+77:Ed Sheeran/Singles & EPs/2014 – Don't - EP/03 Everything You Are.m4a
+78:Ed Sheeran/Singles & EPs/2014 – Don't - EP/04 Friends.m4a
+79:Ed Sheeran/Singles & EPs/2014 – Don't (Don Diablo Remix) - Single/01 Don't (Don Diablo Remix).m4a
+80:Ed Sheeran/Singles & EPs/2014 – Don't (Xambassadors Remix) - Single/01 Don't (Xambassadors Remix).m4a
+81:Ed Sheeran/Singles & EPs/2014 – Make It Rain - Single/01 Make It Rain (from Sons of Anarchy).m4a
+82:Ed Sheeran/Singles & EPs/2014 – Sing - Single/01 Sing.m4a
+83:Ed Sheeran/Singles & EPs/2017 – Shape of You - Single/01 Shape of You.m4a
+playlist_end
